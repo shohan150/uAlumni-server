@@ -8,7 +8,17 @@ const cors = require("cors");
 const app = jsonServer.create();
 const router = jsonServer.router("./database/db.json");
 
-app.use(cors({ credentials: true, origin: true }));
+// app.use(cors({ credentials: true, origin: true }));
+
+app.use(cors({
+  origin: "*", // or specify your frontend URL like 'http://localhost:5173'
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization"], // Allow Authorization header
+}));
+
+// Handle preflight OPTIONS requests
+app.options('*', cors());
+
 app.use(express.static(__dirname + "/public"));
 app.use("/uploads", express.static("uploads"));
 
