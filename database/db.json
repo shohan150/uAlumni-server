@@ -1,304 +1,230 @@
 {
   "posts": [
     {
-      "id": "3ad0d149-62cd-4c20-8513-5ac4e91b83da",
-      "content": "puck u 222\r\n",
+      "id": "ef10f9af-33b9-4242-b2ba-b86f6e13ff2b",
+      "content": "I've been trying to read at least 2 books every 6 months. Developing a reading habit is a journey of discovery and enrichment. It begins with setting aside a small, consistent time each day dedicated to reading. Creating a cozy and distraction-free reading nook can enhance the experience. Start with genres and topics that genuinely interest you, as this will keep you motivated and engaged. Over time, as you continue exploring various authors and styles, your love for reading will grow, transforming it into a fulfilling and indispensable part of your daily life. Happy reading! 📚",
       "image": null,
       "postType": "text",
       "permission": "public",
       "author": {
-        "id": "ad6ca1be-e8fe-4515-9f65-56ca0ba57f20",
-        "name": "shohan j",
-        "avatar": "uploads/avatar/avatar-1731405406305-133014976.png",
-        "batchNo": "2",
-        "desg": "hiix"
+        "id": "94e2a34b-24fb-44c6-81d2-d1e0326638bc",
+        "name": "Amanullah Romjan",
+        "avatar": "uploads/avatar/avatar-1731671679452-456355757.jpg",
+        "batchNo": "32",
+        "desg": "Managing Director, Sazam Group"
       },
       "comments": [
         {
-          "id": "bf541a7c-6af5-4363-a8fc-ecbdf8c97c96",
-          "comment": "n",
-          "createdAt": "2024-11-12T11:09:05.163Z",
+          "id": "ff2b6bea-3def-4b25-baa6-b5e7c0375a6b",
+          "comment": "Very inspiring. and a good approach. ",
+          "createdAt": "2024-11-15T12:03:25.199Z",
           "author": {
-            "id": "ad6ca1be-e8fe-4515-9f65-56ca0ba57f20",
-            "name": "shohan j",
-            "avatar": "uploads/avatar/avatar-1731405406305-133014976.png"
+            "id": "3873591c-68a9-4fbc-b9a8-19fd4ed3487b",
+            "name": "Nadim  Bin Kashem",
+            "avatar": "uploads/avatar/avatar-1731671001711-120429321.jpg"
           }
         }
       ],
-      "likes": [],
-      "createAt": "2024-11-12T11:04:54.038Z"
+      "likes": [
+        "3873591c-68a9-4fbc-b9a8-19fd4ed3487b"
+      ],
+      "createAt": "2024-11-15T11:59:05.893Z"
     },
     {
-      "id": "092997c3-ffea-42c6-b1e1-558292961905",
-      "content": "the puck bitch",
+      "id": "e123bcb9-d555-47b1-bfc6-e52a0a211dc6",
+      "content": "The meet-up at banani was fantastic. Looking forward to attending such progarams in future. ",
+      "image": "uploads/posts/image-1731671517316-826119348.jpg",
+      "postType": "image",
+      "permission": "public",
+      "author": {
+        "id": "6c56fcc7-79c7-4687-9dc9-5539f98c17b1",
+        "name": "Sazzad Hossain  Shaon",
+        "avatar": "uploads/avatar/avatar-1731670516815-83259387.jpg",
+        "batchNo": "65",
+        "desg": "Content Writer"
+      },
+      "comments": [
+        {
+          "id": "4c0156b9-dc73-4fe9-b837-0828d399e71b",
+          "comment": "You guys look Fantasitic. Missed the event. ;(",
+          "createdAt": "2024-11-15T11:55:52.088Z",
+          "author": {
+            "id": "94e2a34b-24fb-44c6-81d2-d1e0326638bc",
+            "name": "Amanullah Romjan",
+            "avatar": "uploads/avatar/avatar-1731671679452-456355757.jpg"
+          }
+        },
+        {
+          "id": "e5ba98a2-cd5e-4132-bbf5-836aa970d4cb",
+          "comment": "A time spent well",
+          "createdAt": "2024-11-15T12:02:38.322Z",
+          "author": {
+            "id": "3873591c-68a9-4fbc-b9a8-19fd4ed3487b",
+            "name": "Nadim  Bin Kashem",
+            "avatar": "uploads/avatar/avatar-1731671001711-120429321.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "94e2a34b-24fb-44c6-81d2-d1e0326638bc",
+        "3873591c-68a9-4fbc-b9a8-19fd4ed3487b",
+        "6c56fcc7-79c7-4687-9dc9-5539f98c17b1"
+      ],
+      "createAt": "2024-11-15T11:51:57.344Z"
+    },
+    {
+      "id": "9de4db0a-4ff6-4472-aa7d-8b394e94c7e0",
+      "content": "Desco is hiring Electrical Engineers. Both recent graduates and experienced personells are elgible to apply. ",
       "image": null,
       "postType": "text",
       "permission": "public",
       "author": {
-        "id": "ad6ca1be-e8fe-4515-9f65-56ca0ba57f20",
-        "name": "shohan j",
-        "avatar": "uploads/avatar/avatar-1731405406305-133014976.png"
+        "id": "3873591c-68a9-4fbc-b9a8-19fd4ed3487b",
+        "name": "Nadim  Bin Kashem",
+        "avatar": "uploads/avatar/avatar-1731671001711-120429321.jpg",
+        "batchNo": "56",
+        "desg": "Electrical Engineer"
       },
       "comments": [],
-      "likes": [],
-      "createAt": "2024-11-12T11:00:10.670Z"
-    },
-    {
-      "id": "114d6b94-fc94-4d3c-ad86-720a18eaf437",
-      "content": "Part of our LWS Support Team ❤️",
-      "image": "uploads/posts/image-1708777029165-711540010.jpg",
-      "postType": "image",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1708776329024-653677858.png"
-      },
-      "comments": [
-        {
-          "id": "5425e388-918e-4675-b003-131c5afc4d54",
-          "comment": "সবাইকে অনেক ভালো লাগছে 😍",
-          "createdAt": "2024-02-24T12:35:17.471Z",
-          "author": {
-            "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
-            "name": "Tapas Adhikary",
-            "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
-          }
-        },
-        {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "Take love ❤️🔥",
-          "createdAt": "2024-02-24T12:36:38.047Z",
-          "author": {
-            "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
-            "name": "Akash Ahmed",
-            "avatar": "uploads/avatar/akash.png"
-          }
-        },
-        {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "❤️🔥",
-          "createdAt": "2024-02-24T12:36:38.047Z",
-          "author": {
-            "id": "ea168626-058e-49dd-b23c-3000e7bd0173",
-            "name": "MD Salahuddin",
-            "avatar": "salahuddin@email.com"
-          }
-        },
-        {
-          "id": "6b11cbd5-6600-45fa-a586-459d602e321f",
-          "comment": "I am Good",
-          "createdAt": "2024-02-24T21:44:11.924Z",
-          "author": {
-            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-            "name": "Saad Hasan",
-            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-          }
-        },
-        {
-          "id": "9a5453cd-a61c-4b4f-b24b-ad846484c3e5",
-          "comment": "Great show",
-          "createdAt": "2024-02-24T21:46:10.153Z",
-          "author": {
-            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-            "name": "Saad Hasan",
-            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-          }
-        }
-      ],
       "likes": [
-        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56"
+        "6c56fcc7-79c7-4687-9dc9-5539f98c17b1"
       ],
-      "createAt": "2024-02-24T12:17:09.169Z"
+      "createAt": "2024-11-15T11:49:33.044Z"
     },
     {
-      "id": "fe48c0d2-6b86-4a18-a746-a4253a085421",
-      "content": "সেই ২০২০ সাল থেকে বিগিনার থেকে শুরু করে ইন্টারমিডিয়েট লেভেল পর্যন্ত ওয়েব ডেভেলপারদেরকে জাভাস্ক্রিপ্ট এবং রিয়্যাক্ট শিখাচ্ছি। এই ৩ বছর ধরে অর্জিত আমার অভিজ্ঞতা থেকে আমি বুঝতে পেরেছি, বর্তমান সময়ে ওয়েব ডেভেলপারদের মূল যে জায়গাটায় গ্যাপ রয়েছে সেটা হলো, রিয়্যাক্টিভ ওয়েব ডেভেলপমেন্টের মৌলিক বিষয় গুলো এবং জটিল কনসেপ্ট গুলো সম্পর্কে পরিপূর্ণ ধারণার অভাব। সেই সাথে এই প্রতিযোগিতাপূর্ণ মার্কেটে সবচেয়ে বেশি যে টেকনোলজি গুলোর চাহিদা রয়েছে তার মধ্যে রিয়্যাক্ট এবং নেক্সট জে.এস একেবারে উপরের দিকে। দুটি টেকনোলজিই খুব দ্রুত আপডেট হয়েছে এবং সেটার সাথে তাল মিলাতে গিয়ে রীতিমত হিমসিম খেতে হচ্ছে ডেভেলপারদেরকে।",
+      "id": "d1d978c1-785f-425d-968c-1c47fe7ce973",
+      "content": "Bangladesh has a comprehensive immigration policy aimed at regulating the entry, stay, and exit of foreigners. The policy includes provisions for visas, work permits, and residency permits. Improving an immigration policy involves several steps to ensure it is fair, efficient, and humane. Here are some suggestions:\r\n\r\nEnhance Transparency: Make the immigration process more transparent by providing clear guidelines and information to applicants. This helps reduce confusion and ensures that applicants understand the requirements and procedures.\r\n\r\nIncrease Resources: Allocate more resources to immigration services, including hiring additional staff and improving infrastructure. This can help reduce processing times and improve the overall efficiency of the system.\r\n\r\nStreamline Processes: Simplify and streamline the application processes for visas, work permits, and residency permits. Reducing bureaucratic red tape can make the system more user-friendly and efficient.\r\n\r\nAddress Root Causes: Work with other countries and international organizations to address the root causes of migration, such as poverty, violence, and environmental degradation. By improving conditions in source countries, the need for migration may decrease.\r\n\r\nProvide Support Services: Offer support services to immigrants, such as language training, job placement assistance, and access to healthcare. This can help immigrants integrate more smoothly into their new communities.\r\n\r\nEnsure Human Rights: Uphold the human rights of immigrants and refugees by providing safe and sanitary conditions, access to legal representation, and protection from exploitation and abuse.",
       "image": null,
       "postType": "text",
+      "permission": "public",
       "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+        "id": "6c56fcc7-79c7-4687-9dc9-5539f98c17b1",
+        "name": "Sazzad Hossain  Shaon",
+        "avatar": "uploads/avatar/avatar-1731670516815-83259387.jpg",
+        "batchNo": "65",
+        "desg": "Content Writer"
       },
-      "comments": [
-        {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "অনেক উপকারী",
-          "createdAt": "2024-02-24T12:36:38.047Z",
-          "author": {
-            "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
-            "name": "Akash Ahmed",
-            "avatar": "uploads/avatar/akash.png"
-          }
-        },
-        {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "সুন্দর",
-          "createdAt": "2024-02-24T12:36:38.047Z",
-          "author": {
-            "id": "ea168626-058e-49dd-b23c-3000e7bd0173",
-            "name": "MD Salahuddin",
-            "avatar": "salahuddin@email.com"
-          }
-        },
-        {
-          "id": "bad6e068-58c5-4287-aea4-b00078863402",
-          "comment": "All Good",
-          "createdAt": "2024-02-24T21:47:16.009Z",
-          "author": {
-            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-            "name": "Saad Hasan",
-            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-          }
-        },
-        {
-          "id": "a156efde-7df7-45ae-b774-caade705dc28",
-          "comment": "wow",
-          "createdAt": "2024-03-04T17:40:31.047Z",
-          "author": {
-            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-            "name": "Saad Hasan",
-            "avatar": "uploads/avatar/avatar-1708849386635-121791126.png"
-          }
-        },
-        {
-          "id": "615f1d3f-8d83-4189-b8ef-e82310c5adb3",
-          "comment": "checking random",
-          "createdAt": "2024-03-04T17:41:02.642Z",
-          "author": {
-            "id": "de8d7253-46f6-409a-b480-1c02f50b83c9",
-            "name": "shohan 1234",
-            "avatar": null
-          }
-        },
-        {
-          "id": "2307018d-73ed-43e0-903d-99b1a48f253b",
-          "comment": "checking random",
-          "createdAt": "2024-03-04T17:41:05.896Z",
-          "author": {
-            "id": "de8d7253-46f6-409a-b480-1c02f50b83c9",
-            "name": "shohan 1234",
-            "avatar": null
-          }
-        },
-        {
-          "id": "8d86bc44-a9f3-4564-a59b-3f828d609fe2",
-          "comment": "checking random",
-          "createdAt": "2024-03-04T17:42:17.969Z",
-          "author": {
-            "id": "de8d7253-46f6-409a-b480-1c02f50b83c9",
-            "name": "shohan 1234",
-            "avatar": null
-          }
-        }
-      ],
+      "comments": [],
       "likes": [
-        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56"
+        "94e2a34b-24fb-44c6-81d2-d1e0326638bc"
       ],
-      "createAt": "2024-02-24T12:18:21.686Z"
+      "createAt": "2024-11-15T11:38:55.352Z"
     },
     {
-      "id": "ed30b734-af45-4fae-be50-8b1e7c8ee929",
-      "content": "Happy Birthday Tapas Vai",
-      "image": "uploads/posts/image-1708777190872-111445232.jpg",
+      "id": "ce428375-f4aa-433b-a0e6-285c66544d77",
+      "content": "Scholarship Opportunity at University of California. Anyone interested feel free to contact me regarding any query. ",
+      "image": "uploads/posts/image-1731669950024-423033416.jpg",
       "postType": "image",
+      "permission": "public",
       "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+        "id": "fbda3f1a-663a-473d-bede-3e69a723e747",
+        "name": "Haider  Ali",
+        "avatar": "uploads/avatar/avatar-1731669594493-488977631.jpg",
+        "batchNo": "53",
+        "desg": "Phd Student, University of California."
       },
       "comments": [
         {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "Happy Birthday vai",
-          "createdAt": "2024-02-24T12:36:38.047Z",
+          "id": "5cb94a16-a98f-454e-9efb-e64d225b99ca",
+          "comment": "Can you mention the departments accepting applications?",
+          "createdAt": "2024-11-15T11:39:34.285Z",
           "author": {
-            "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
-            "name": "Akash Ahmed",
-            "avatar": "uploads/avatar/akash.png"
+            "id": "6c56fcc7-79c7-4687-9dc9-5539f98c17b1",
+            "name": "Sazzad Hossain  Shaon",
+            "avatar": "uploads/avatar/avatar-1731670516815-83259387.jpg"
           }
         },
         {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "শুভ জন্মদিন ভাই",
-          "createdAt": "2024-02-24T12:36:38.047Z",
+          "id": "710fb201-c564-433f-baf5-2fe859470264",
+          "comment": "Great Opportunity",
+          "createdAt": "2024-11-15T11:55:28.618Z",
           "author": {
-            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-            "name": "Saad Hasan",
-            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+            "id": "94e2a34b-24fb-44c6-81d2-d1e0326638bc",
+            "name": "Amanullah Romjan",
+            "avatar": "uploads/avatar/avatar-1731671679452-456355757.jpg"
           }
         },
         {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "Many many happy returns of the day",
-          "createdAt": "2024-02-24T12:36:38.047Z",
+          "id": "d5c78c02-6afe-4ddb-8fa7-68653687ee26",
+          "comment": "The departments range from engineering to science based departments like physics, chemistry and math.",
+          "createdAt": "2024-11-15T12:00:51.400Z",
           "author": {
-            "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
-            "name": "Sumit Saha",
-            "avatar": "uploads/avatar/avatar-1708777668890-622477379.png"
+            "id": "fbda3f1a-663a-473d-bede-3e69a723e747",
+            "name": "Haider  Ali",
+            "avatar": "uploads/avatar/avatar-1731669594493-488977631.jpg"
           }
         },
         {
-          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
-          "comment": "সবাইকে অনেক অনেক ধন্যবাদ",
-          "createdAt": "2024-02-24T12:36:38.047Z",
+          "id": "61c96682-22aa-48b0-b039-74587319ff98",
+          "comment": "what's the deadline?",
+          "createdAt": "2024-11-15T12:01:40.117Z",
           "author": {
-            "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
-            "name": "Tapas Adhikary",
-            "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
+            "id": "3873591c-68a9-4fbc-b9a8-19fd4ed3487b",
+            "name": "Nadim  Bin Kashem",
+            "avatar": "uploads/avatar/avatar-1731671001711-120429321.jpg"
           }
         },
         {
-          "id": "093d2b40-099f-4d2d-8597-f09f47b87c95",
-          "comment": "Looks Great",
-          "createdAt": "2024-02-25T05:02:19.242Z",
+          "id": "49577cde-485d-4cea-8c82-26d0930f875a",
+          "comment": "can you share the scholarship amount please?",
+          "createdAt": "2024-11-15T12:01:56.274Z",
           "author": {
-            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-            "name": "Saad Hasan",
-            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-          }
-        },
-        {
-          "id": "3a302cb1-4470-4790-a0be-86eafc5b2e16",
-          "comment": "Awesome Looking",
-          "createdAt": "2024-02-25T05:02:46.988Z",
-          "author": {
-            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-            "name": "Saad Hasan",
-            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+            "id": "3873591c-68a9-4fbc-b9a8-19fd4ed3487b",
+            "name": "Nadim  Bin Kashem",
+            "avatar": "uploads/avatar/avatar-1731671001711-120429321.jpg"
           }
         }
       ],
       "likes": [
-        "ea168626-058e-49dd-b23c-3000e7bd0172",
-        "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
-        "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
-        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56"
+        "6c56fcc7-79c7-4687-9dc9-5539f98c17b1",
+        "fbda3f1a-663a-473d-bede-3e69a723e747",
+        "3873591c-68a9-4fbc-b9a8-19fd4ed3487b"
       ],
-      "createAt": "2024-02-09T12:19:50.876Z"
+      "createAt": "2024-11-15T11:25:50.035Z"
     }
   ],
   "comments": [],
   "users": [
     {
-      "id": "ad6ca1be-e8fe-4515-9f65-56ca0ba57f20",
-      "password": "$2b$08$MC/XliLob..IzNgpfNTGTOFPYafqOwQBgaCA/MvXOeXxnq8kJ558i",
-      "firstName": "shohan",
-      "lastName": "j",
-      "batchNo": "2",
-      "avatar": "uploads/avatar/avatar-1731405406305-133014976.png",
-      "email": "iamdummy37@gmail.com",
-      "bio": "test bio\n",
-      "desg": "hiix"
+      "id": "fbda3f1a-663a-473d-bede-3e69a723e747",
+      "password": "$2b$08$fwsNWA6ZDntmrss5zKAgW.5yWy5kv5Sn8w2b51g5pct82sRKORCD6",
+      "firstName": "Haider ",
+      "lastName": "Ali",
+      "batchNo": "53",
+      "avatar": "uploads/avatar/avatar-1731669594493-488977631.jpg",
+      "email": "shohan7035@gmail.com",
+      "desg": "Phd Student, University of California.",
+      "bio": "Tech Enthusiast. "
     },
     {
-      "id": "42c7846c-0d37-40a6-9ebf-346f8bd944d2",
-      "password": "$2b$08$ONtyjO6kim8MbmlcEzgm4.Vv55928t54pFah/252CXDAe92cGWVSy",
-      "firstName": "999",
-      "lastName": "123",
-      "batchNo": "2",
-      "avatar": "uploads/avatar/person.jpg",
-      "email": "mdsalahuddin46464@gmail.com"
+      "id": "6c56fcc7-79c7-4687-9dc9-5539f98c17b1",
+      "password": "$2b$08$e1HFzsXpbJHpZMobbk2CkunRPoaPhGg.woR8/tZuw10UPMxqtcH7S",
+      "firstName": "Sazzad Hossain ",
+      "lastName": "Shaon",
+      "batchNo": "65",
+      "avatar": "uploads/avatar/avatar-1731670516815-83259387.jpg",
+      "email": "mdsalahuddin46464@gmail.com",
+      "desg": "Content Writer"
+    },
+    {
+      "id": "3873591c-68a9-4fbc-b9a8-19fd4ed3487b",
+      "password": "$2b$08$lB9JRDqKlXaGCNFf3xT2wuw62JHYTg9rhqVP/VowaCQPB67dH0Kd6",
+      "firstName": "Nadim ",
+      "lastName": "Bin Kashem",
+      "batchNo": "56",
+      "avatar": "uploads/avatar/avatar-1731671001711-120429321.jpg",
+      "email": "iamdummy37@gmail.com",
+      "desg": "Electrical Engineer"
+    },
+    {
+      "id": "94e2a34b-24fb-44c6-81d2-d1e0326638bc",
+      "password": "$2b$08$sBI/2vw2ZygQrUbpQc2Aue8ydyUTquQtdO1DEoox/Q/IGG3HUbdMy",
+      "firstName": "Amanullah",
+      "lastName": "Romjan",
+      "batchNo": "32",
+      "avatar": "uploads/avatar/avatar-1731671679452-456355757.jpg",
+      "email": "romjan@duck.com",
+      "desg": "Managing Director, Sazam Group"
     }
   ]
 }
